@@ -1,0 +1,1 @@
+Текст... из файла history_text.txt
